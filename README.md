@@ -1,5 +1,5 @@
 
-# Revelar seu Destino
+# Revele seu Destino
 
 - Esse projeto consiste em criar um simples aplicativo onde teremos uma interação com o usuário onde o mesmo fará uma pergunta e automaticamente a aplicaçao irá retornar com uma resposta .
 - Projeto proposto pela Maratona Explorer da [RocketSeat](https://www.rocketseat.com.br/).
